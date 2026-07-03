@@ -1,0 +1,8 @@
+{
+  "name": "travel-mind",
+  "version": "0.0.1",
+  "description": "Travel accommodation portal",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
