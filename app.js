@@ -1,6 +1,5 @@
 const express = require("express");
+const mongoose = require("mongoose");
 const app = express();
-const port = 8080;
 
-app.get("/", (req, res) => res.send("Travel-Mind API running"));
-app.listen(port);
+mongoose.connect("mongodb://127.0.0.1:27017/travelmind").catch(err => console.log(err));
