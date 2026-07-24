@@ -5,3 +5,7 @@ Travel-Mind is a web application designed for booking and discovering accommodat
 ## Project Goals
 - Easy listing exploration
 - User booking & reviews
+
+## API Endpoints
+- `/listings` - Browse all listings
+- `/listings/:id` - Show listing
