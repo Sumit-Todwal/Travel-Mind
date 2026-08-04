@@ -9,3 +9,6 @@ Travel-Mind is a web application designed for booking and discovering accommodat
 ## API Endpoints
 - `/listings` - Browse all listings
 - `/listings/:id` - Show listing
+
+## Authentication
+User auth is powered by Passport.js with session cookies.
