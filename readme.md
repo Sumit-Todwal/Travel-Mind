@@ -16,3 +16,7 @@ User auth is powered by Passport.js with session cookies.
 ## Database Architecture
 - User (1) -> Listings (N)
 - Listing (1) -> Reviews (N)
+
+## Prerequisites
+- Node.js >= 16
+- MongoDB
