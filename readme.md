@@ -20,3 +20,6 @@ User auth is powered by Passport.js with session cookies.
 ## Prerequisites
 - Node.js >= 16
 - MongoDB
+
+### Listing Schema
+Includes title, description, image, price, location, country, reviews, owner, geometry.
