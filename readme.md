@@ -23,3 +23,6 @@ User auth is powered by Passport.js with session cookies.
 
 ### Listing Schema
 Includes title, description, image, price, location, country, reviews, owner, geometry.
+
+### Mapbox Integration
+Set `MAP_TOKEN` in your `.env` file.
