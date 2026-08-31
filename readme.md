@@ -29,3 +29,7 @@ Set `MAP_TOKEN` in your `.env` file.
 
 ### Cloudinary Configuration
 Requires `CLOUD_NAME`, `CLOUD_API_KEY`, and `CLOUD_API_SECRET`.
+
+## Troubleshooting
+- MongoDB connection issues
+- Missing environment variables
