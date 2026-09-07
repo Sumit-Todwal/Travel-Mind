@@ -33,3 +33,6 @@ Requires `CLOUD_NAME`, `CLOUD_API_KEY`, and `CLOUD_API_SECRET`.
 ## Troubleshooting
 - MongoDB connection issues
 - Missing environment variables
+
+### Razorpay Setup
+Provide `RAZORPAY_KEY_ID` and `RAZORPAY_KEY_SECRET`.
