@@ -36,3 +36,8 @@ Requires `CLOUD_NAME`, `CLOUD_API_KEY`, and `CLOUD_API_SECRET`.
 
 ### Razorpay Setup
 Provide `RAZORPAY_KEY_ID` and `RAZORPAY_KEY_SECRET`.
+
+| Component | Technology |
+|---|---|
+| Backend | Node / Express |
+| Database | MongoDB |
