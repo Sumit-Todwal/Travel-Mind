@@ -41,3 +41,6 @@ Provide `RAZORPAY_KEY_ID` and `RAZORPAY_KEY_SECRET`.
 |---|---|
 | Backend | Node / Express |
 | Database | MongoDB |
+
+## Code Style
+Follow standard Express.js MVC architectural patterns.
