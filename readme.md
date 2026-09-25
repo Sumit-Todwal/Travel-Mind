@@ -44,3 +44,7 @@ Provide `RAZORPAY_KEY_ID` and `RAZORPAY_KEY_SECRET`.
 
 ## Code Style
 Follow standard Express.js MVC architectural patterns.
+
+```bash
+npm run dev
+```
