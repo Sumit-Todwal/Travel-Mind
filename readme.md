@@ -48,3 +48,6 @@ Follow standard Express.js MVC architectural patterns.
 ```bash
 npm run dev
 ```
+
+## License
+ISC License.
