@@ -51,3 +51,7 @@ npm run dev
 
 ## License
 ISC License.
+
+## Milestones
+- Core CRUD completed
+- Authentication finalized
